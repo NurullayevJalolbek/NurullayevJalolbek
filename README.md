@@ -17,6 +17,6 @@
 
 
 ---
-![snake gif](https://github.com/Nurullayev-php/Nurullayev-php/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Nurullayev-php/Nurullayev-php/blob/output/github-contribution-grid-snake.svg)
 
 ---
