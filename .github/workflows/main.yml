@@ -31,7 +31,7 @@ jobs:
         uses: Platane/snk@v3.0.0
             
         with:
-          github_user_name: AminovJamshid
+          github_user_name: Nurullayev-php
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake-dark.svg
