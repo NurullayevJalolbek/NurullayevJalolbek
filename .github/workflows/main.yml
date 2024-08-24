@@ -36,7 +36,7 @@ jobs:
 
       # O'zgarishlarni push qilish
       - name: Push changes
-        uses: ad-m/github-push-action@v1.0.0
+        uses: ad-m/github-push-action@2.319.1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: output
