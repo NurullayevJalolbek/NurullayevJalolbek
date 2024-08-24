@@ -1,11 +1,24 @@
 
+
+
+
+### My activity:
+[![Hits](https://hits.sh/github.com/Nurullayev-php.svg)](https://hits.sh/github.com/Nurullayev-php/)
+
+---
 [![Jalolbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nurullayev-php&count_private=true&show_icons=true&theme=react)](#)
 
 [![Jalolbek's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nurullayev&layout=compact&theme=react)](https://wakatime.com/@Nurullayev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurullayev-php&layout=compact&theme=react&langs_count=7)](#)
 
----
+
+
+### Tools and Programs:
+[![My Skills](https://skillicons.dev/icons?i=php,python,c,mysql,linux,bash,git,github,html,css,bootstrap,vscode,postman)](https://github.com/Aminovjamshid)
+
+
+
 
 ### Get in touch:
 
