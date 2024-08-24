@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+👋+,+I'm+Nurullayev+Jalolbek;PHP+Forewer;Who+wants+to+change+the+world;With+making+fantastic+apps!)](https://git.io/typing-svg)
+
+<h1 align="center">Hi 👋, I'm Nurullayev Jalolbek </h1>
 
 
 
@@ -5,7 +8,7 @@
 ### My activity:
 [![Hits](https://hits.sh/github.com/Nurullayev-php.svg)](https://hits.sh/github.com/Nurullayev-php/)
 
----
+
 [![Jalolbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nurullayev-php&count_private=true&show_icons=true&theme=react)](#)
 
 [![Jalolbek's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nurullayev&layout=compact&theme=react)](https://wakatime.com/@Nurullayev)
@@ -17,14 +20,6 @@
 ### Tools and Programs:
 [![My Skills](https://skillicons.dev/icons?i=php,python,c,mysql,linux,bash,git,github,html,css,bootstrap,vscode,postman)](https://github.com/Aminovjamshid)
 
-
-
-
-### Get in touch:
-
-
-[<img align="left" alt="telegram | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />](https://t.me/Nurullayev_php)
-[<img align="left" alt="gmail | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:jalolbeknurullayev.php@gmail.com)
 
 
 
