@@ -1,3 +1,4 @@
+
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
 name: Generate Snake
@@ -26,13 +27,14 @@ jobs:
       - uses: actions/checkout@v2
 
     # Generates the snake  
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v3.0.0
+            
         with:
-          github_user_name: mishmanners
+          github_user_name: Nurullayev-php
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path: dist/github-contribution-grid-snake-dark.svg
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
@@ -52,3 +54,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+           
