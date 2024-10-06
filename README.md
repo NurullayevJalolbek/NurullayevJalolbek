@@ -21,7 +21,7 @@
 
 
 ### Tools and Programs:
-[![My Skills](https://skillicons.dev/icons?i=php,python,c,mysql,linux,bash,git,github,html,css,bootstrap,vscode,postman)](https://github.com/Aminovjamshid)
+[![My Skills](https://skillicons.dev/icons?i=php,python,c,mysql,linux,bash,git,github,html,css,bootstrap,vscode,postman)](https://github.com/Nurullayev-php)
 
 
 
