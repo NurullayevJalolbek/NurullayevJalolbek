@@ -13,6 +13,7 @@
 [![wakatime](https://wakatime.com/badge/user/87f03241-6294-4f9f-b797-56d08748f1a8.svg)](https://wakatime.com/@87f03241-6294-4f9f-b797-56d08748f1a8)
 
 
+
 [![Jalolbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=NurullayevJalolbek&count_private=true&show_icons=true&theme=react)](#)
 
 [![Jalolbek's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nurullayev&layout=compact&theme=react)](https://wakatime.com/@Nurullayev)
