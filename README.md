@@ -2,26 +2,26 @@
 
 <h1 align="center">Hi 👋, I'm Nurullayev Jalolbek </h1>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Nurullayev-php&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Nurullayev-php)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=NurullayevJalolbek&data=followers,repositories,stars,commits&theme=dark)](https://github.com/NurullayevJalolbek)
 
 
 
 
 
 ### My activity:
-[![Hits](https://hits.sh/github.com/Nurullayev-php.svg)](https://hits.sh/github.com/Nurullayev-php/)
+[![Hits](https://hits.sh/github.com/Nurullayev-php.svg)](https://hits.sh/github.com/NurullayevJalolbek/)
 
 
-[![Jalolbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nurullayev-php&count_private=true&show_icons=true&theme=react)](#)
+[![Jalolbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=NurullayevJalolbek&count_private=true&show_icons=true&theme=react)](#)
 
 [![Jalolbek's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nurullayev&layout=compact&theme=react)](https://wakatime.com/@Nurullayev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurullayev-php&layout=compact&theme=react&langs_count=7)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurullayevJalolbek&layout=compact&theme=react&langs_count=7)](#)
 
 
 
 ### Tools and Programs:
-[![My Skills](https://skillicons.dev/icons?i=php,python,c,mysql,linux,bash,git,github,html,css,bootstrap,vscode,postman)](https://github.com/Nurullayev-php)
+[![My Skills](https://skillicons.dev/icons?i=php,python,c,mysql,linux,bash,git,github,html,css,bootstrap,vscode,postman)](https://github.com/NurullayevJalolbek)
 
 
 
@@ -39,6 +39,6 @@
 
 
 ---
-![snake gif](https://github.com/Nurullayev-php/Nurullayev-php/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/NurullayevJalolbek/NurullayevJalolbek/blob/output/github-contribution-grid-snake.svg)
 
 ---
