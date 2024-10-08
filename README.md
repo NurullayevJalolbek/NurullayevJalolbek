@@ -10,7 +10,8 @@
 
 ### My activity:
 [![Hits](https://hits.sh/github.com/Nurullayev-php.svg)](https://hits.sh/github.com/NurullayevJalolbek/)
-[![wakatime](https://wakatime.com/badge/user/87f03241-6294-4f9f-b797-56d08748f1a8.svg)](https://wakatime.com/@87f03241-6294-4f9f-b797-56d08748f1a8)
+[![wakatime](https://wakatime.com/badge/user/87f03241-6294-4f9f-b797-56d08748f1a8.svg)](https://wakatime.com/@87f03241-6294-4f9f-b797-56d08748f1a8) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurullayevJalolbek&layout=compact&theme=react&langs_count=7)](#)
+
 
 
 
@@ -18,7 +19,6 @@
 
 [![Jalolbek's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nurullayev&layout=compact&theme=react)](https://wakatime.com/@Nurullayev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurullayevJalolbek&layout=compact&theme=react&langs_count=7)](#)
 
 
 
