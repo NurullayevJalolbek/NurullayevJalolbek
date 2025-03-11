@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+👋+,+I'm+Nurullayev+Jalolbek;PHP+Forewer;Who+wants+to+change+the+world;With+making+fantastic+apps!)](https://git.io/typing-svg)
-
 <h1 align="center">Hi 👋, I'm Nurullayev Jalolbek </h1>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=NurullayevJalolbek&data=followers,repositories,stars,commits&theme=dark)](https://github.com/NurullayevJalolbek)
